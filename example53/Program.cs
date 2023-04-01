@@ -42,7 +42,6 @@ void PrintArray(int[,] matrix)
     }
 
 }
-
 Console.Clear();
 int[, ] matrix = InputMatrix();
 ChangeArray(matrix);
